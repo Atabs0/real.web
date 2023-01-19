@@ -24,7 +24,7 @@ window.addEventListener('scroll',changeColor)
        <Link to='/'><h1>GLX TRVL</h1></Link>
        <ul className={click? 'nav-menu active': 'nav-menu'}>
             <li>
-                <Link to='/'>Home</Link>
+                <Link to='/Home'>Home</Link>
             </li>
             <li>
                 <Link to='/pricing'>Pricing</Link>
